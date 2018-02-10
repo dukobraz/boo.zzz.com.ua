@@ -17,7 +17,7 @@ $id = $_GET["id"];
 
 
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
-<title>Інтернет магазин fantasy bytoooots</title>
+<title>Інтернет магазин fantasy boots</title>
 
 </head>
 <body>
