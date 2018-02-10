@@ -84,7 +84,7 @@ include("include/block-header.php");
             <hr>
             <p class="textnajavnist" align="center">Код товару-3422905</p>
             <hr>
-            <p class="tcina1" align="center">180грн.</p>
+            <p class="tcina1" align="center">2500грн.</p>
             <hr>
             <p class="rozmirytovaru" align="center">Розміри в наявності</p>
 
